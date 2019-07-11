@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "tTYIk84iHTnsJXZ+HgCIgP2buKI=",
+			"path": "github.com/beanstalkd/go-beanstalk",
+			"revision": "390b03b3064ae19363bc8afd4a947ec12ea52bf6",
+			"revisionTime": "2019-05-15T04:13:46Z"
+		}
+	],
+	"rootPath": "github.com/gha/pipeline"
+}
